@@ -1,6 +1,6 @@
 import java.io.*;
 
-public class repetition {
+public class Repetition {
 
 	public static void main(String[] args) {
 		BufferedReader input = new BufferedReader(new InputStreamReader(System.in));
