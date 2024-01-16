@@ -1,6 +1,6 @@
 import java.io.*;
 
-public class conditional {
+public class Conditional {
 
 	public static boolean isPrime(int n, int i) {
 
