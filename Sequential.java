@@ -1,6 +1,6 @@
 import java.io.*;
 
-public class sequential {
+public class Sequential {
 
 	public static void main(String[] args) {
 		double height, base;
